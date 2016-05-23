@@ -1268,3 +1268,43 @@ label[for="kids-qty"] {
     height: 16px;
     background-position: -1153px -10px;
 }
+
+/* стили для странички с сертификатом */
+
+.container-serf {
+  position: relative;
+  width: 60vw;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: #ffffff;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+}
+
+.container-serf h2 {
+  width: 60%;
+  margin-left: 10%;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: #2d3691;
+}
+
+.academy-logo {
+  position: absolute;
+  right: 5%;
+}
+
+.developer-sertificate p {
+  position: absolute;
+}
+
+.sertificate {
+  display: block;
+  margin: 0 auto;
+}
+
+.sertificate-box p {
+  font-weight: bold;
+  position: absolute;
+  top: 20%;
+  right: 5%;
+}
